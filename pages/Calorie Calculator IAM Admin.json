@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "calorie-calculator-431321",
+  "private_key_id": "ecc49c534e9e47d39d151b5c3ea118e24f333187",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvAIBADANBgkqhkiG9w0BAQEFAASCBKYwggSiAgEAAoIBAQCq7dIsDnLNCh1f\nOIztz5ktNOmYdTWB584QWXWMU8quyku9frCoQmkVzQ+LIaxXb0PgAQ9LaWKZ3Y4f\nnHPlEVXf8vGd1iJUcmR09gDAbx+d3XodXPO1m+KVj7fxXllCAmztST5dOlPoRMuD\nX80kLz2Gj78sTUc2ycEFVIHbz9HVPOMMIyYcOG6lOQUNXTD/vyzcfmK0rFSmn9Rx\nKdztzxyyM9zx6AFeOx1Gwk5HQtSLk5i15sBRwF6m5HOHZlnZ5U/VhaHi3BSa6dsE\nC0c4JDHhImP6i/ZpAvnMIBm+ZiLWQ572XyM/Jv4eWVf7TGweXgmz3yu7D0nJ2Wz2\nQq7I7bY3AgMBAAECggEAHuwHKZEzk4RQ6/j/BcaYn2UDHWGW3Hli/fIxIcHG2Pgf\n25gfvVDGUftW5ISi+O5YCR4n9iyKeetq2q0jCj2om2sH6tXiQASxx7b5S9bOkXCP\ntuAp9qDMzOHDFRdMbnSh4AtwDM2QgGRxrMKYCgPBzaYTn6AbUf4NvTkchPeDrl+Z\nw8JEV31NlCZN3EIQ1Uiq0lurUfRgQoS1YpV+SI8Scf/apyXSM1Yk3/5LOdK1ViJ/\nU4a446EJOtvNgCIPugJXSVSKhxdyqUSxOBMtqwM+85u5yAuEQDrTSzxow0SAl70Z\nOOQJysrtvJmz5Oqny4a2DNM/7bNFa1uIrxd0gG5qgQKBgQDR9hnd2YJTYBnV2O5l\nOCUHuedUqLOjQb5gsWQ2KVI86MV1PRiim3n94KLbJnhiPyf+t1ts2jswi+S5P528\nQFVFNehn5gdJ/9uDE6jejT881qdEd3wp44XiSphi3CEwnYIVkevFfHAR3bVBTsh5\nJXOYQ9+3Fjz4JOpT6Vo+/ppSWwKBgQDQaLECm883kWOLvOYMkjF2bhwdTJUlq/Es\nbEbXharuRhl9Uf4nSU+g0jB7Povu01VfenDNMo46+hHbiL5BGKeBj8/tuyXEt5Jv\ngFqvLzFwOp4Spdc4Zxs+wnySnZP6P7cmzTChf+9lstV7PPT95OkG9B2VGS3Ns2xr\nY/c29iN6VQKBgBzXzQff+HpRqlrpOR6ojtW34SKNJlhYELohxF14YbbCV1Xatcao\nyyJoOJcYetMsT+c68xFKDXWG0j3sklOpFs2yMSIMxJWS02n3SmyARN6rskDClUj/\n24WRr8ts6BZQnO0vpY70oESkC2FUXE/gKDgTouj44hlIoPQ0C1S6DyMfAoGATaMS\nfeRJN2wj50SBdqFnZ7TxKEEFNrls6J2VbmhPGuBmUnce9MessD5c7SyJuHhlz2Gv\nb+GrdnD+AghYx6tFi1BlpywWj8fK91qbbbNo+WP8yvmYyVwvnBubiIrHO2xM8Fl0\nClW8eug5+uTkZ0jFPl/mPUrZ800p0H+28nSTFtkCgYArst+OM9Jmy38bAkOAkOmB\n8NCpQi8DgD5//lSd6445o+WceNULeRMJ9Y/+DJcOndP7EVT2/AZ3laeuXXTfuf/n\ntW/dmlkOvla+Hkk3LmiBKR0nFEyp3ypFx62iTkb9pEZXRNqJgYxV/u2Mx1P4n0Oe\nt0oOtpghj9kAyF16lFr+Aw==\n-----END PRIVATE KEY-----\n",
+  "client_email": "calorie-calculator@calorie-calculator-431321.iam.gserviceaccount.com",
+  "client_id": "102743867862297440125",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/calorie-calculator%40calorie-calculator-431321.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}
